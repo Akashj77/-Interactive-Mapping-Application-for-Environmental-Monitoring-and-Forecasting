@@ -1,4 +1,4 @@
-# -Interactive-Mapping-Application-for-Environmental-Monitoring-and-Forecasting
+# Interactive-Mapping-Application-for-Environmental-Monitoring-and-Forecasting
 1. Project Overview
 
 This project develops an integrated environmental monitoring and NO₂
